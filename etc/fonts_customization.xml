@@ -12,6 +12,15 @@
     <family customizationType="new-named-family" name="arbutus-slab">
       <font weight="400" style="normal">ArbutusSlab-Regular.ttf</font>
     </family>
+	
+	<family customizationType="new-named-family" name="comicsans">
+        <font weight="400" style="normal">Comic_Sans.ttf</font>
+    </family>
+
+
+    <family customizationType="new-named-family" name="circularstd">
+      <font weight="400" style="normal">CircularStd.ttf</font>
+    </family>
 
     <family customizationType="new-named-family" name="lato">
       <font weight="400" style="normal">Lato-Regular.ttf</font>
@@ -20,6 +29,10 @@
       <font weight="700" style="italic">Lato-BoldItalic.ttf</font>
     </family>
     <alias name="lato-bold" to="lato" weight="700" />
+
+    <family customizationType="new-named-family" name="oneplusslate">
+      <font weight="400" style="normal">OnePlusSlate.ttf</font>
+    </family>
 
     <family customizationType="new-named-family" name="rubik">
       <font weight="400" style="normal">Rubik-Regular.ttf</font>
@@ -38,4 +51,220 @@
       <font weight="600" style="italic">ZillaSlab-SemiBoldItalic.ttf</font>
     </family>
     <alias name="zilla-slab-semi-bold" to="zilla-slab-medium" weight="600" />
+
+    <family customizationType="new-named-family" name="aclonica">
+      <font weight="300" style="normal">Aclonica.ttf</font>
+    </family>
+    <alias name="aclonica-bold" to="aclonica" weight="600" />
+    <alias name="times" to="aclonica" />
+    <alias name="times new roman" to="aclonica" />
+    <alias name="palatino" to="aclonica" />
+    <alias name="georgia" to="aclonica" />
+    <alias name="baskerville" to="aclonica" />
+    <alias name="goudy" to="aclonica" />
+    <alias name="fantasy" to="aclonica" />
+    <alias name="ITC Stone Serif" to="aclonica" />
+
+    <family customizationType="new-named-family" name="amarante">
+      <font weight="300" style="normal">Amarante.ttf</font>
+    </family>
+    <alias name="amarante-bold" to="amarante" weight="600" />
+    <alias name="times" to="amarante" />
+    <alias name="times new roman" to="amarante" />
+    <alias name="palatino" to="amarante" />
+    <alias name="georgia" to="amarante" />
+    <alias name="baskerville" to="amarante" />
+    <alias name="goudy" to="amarante" />
+    <alias name="fantasy" to="amarante" />
+    <alias name="ITC Stone Serif" to="amarante" />
+
+    <family customizationType="new-named-family" name="bariol">
+      <font weight="300" style="normal">Bariol-Regular.ttf</font>
+    </family>
+    <alias name="bariol-bold" to="bariol" weight="600" />
+    <alias name="times" to="bariol" />
+    <alias name="times new roman" to="bariol" />
+    <alias name="palatino" to="bariol" />
+    <alias name="georgia" to="bariol" />
+    <alias name="baskerville" to="bariol" />
+    <alias name="goudy" to="bariol" />
+    <alias name="fantasy" to="bariol" />
+    <alias name="ITC Stone Serif" to="bariol" />
+
+    <family customizationType="new-named-family" name="cagliostro">
+      <font weight="300" style="normal">Cagliostro-Regular.ttf</font>
+    </family>
+    <alias name="cagliostro-bold" to="cagliostro" weight="600" />
+    <alias name="times" to="cagliostro" />
+    <alias name="times new roman" to="cagliostro" />
+    <alias name="palatino" to="cagliostro" />
+    <alias name="georgia" to="cagliostro" />
+    <alias name="baskerville" to="cagliostro" />
+    <alias name="goudy" to="cagliostro" />
+    <alias name="fantasy" to="cagliostro" />
+    <alias name="ITC Stone Serif" to="cagliostro" />
+
+    <family customizationType="new-named-family" name="coolstory">
+      <font weight="300" style="normal">Coolstory-Regular.ttf</font>
+    </family>
+    <alias name="coolstory-bold" to="coolstory" weight="600" />
+    <alias name="times" to="coolstory" />
+    <alias name="times new roman" to="coolstory" />
+    <alias name="palatino" to="coolstory" />
+    <alias name="georgia" to="coolstory" />
+    <alias name="baskerville" to="coolstory" />
+    <alias name="goudy" to="coolstory" />
+    <alias name="fantasy" to="coolstory" />
+    <alias name="ITC Stone Serif" to="coolstory" />
+
+    <family customizationType="new-named-family" name="lgsmartgothic">
+      <font weight="300" style="normal">LGSmartGothic.ttf</font>
+    </family>
+    <alias name="lgsmartgothic-bold" to="lgsmartgothic" weight="600" />
+    <alias name="times" to="lgsmartgothic" />
+    <alias name="times new roman" to="lgsmartgothic" />
+    <alias name="palatino" to="lgsmartgothic" />
+    <alias name="georgia" to="lgsmartgothic" />
+    <alias name="baskerville" to="lgsmartgothic" />
+    <alias name="goudy" to="lgsmartgothic" />
+    <alias name="fantasy" to="lgsmartgothic" />
+    <alias name="ITC Stone Serif" to="lgsmartgothic" />
+
+    <family customizationType="new-named-family" name="rosemary">
+      <font weight="300" style="normal">Rosemary-Regular.ttf</font>
+    </family>
+    <alias name="rosemary-bold" to="rosemary" weight="600" />
+    <alias name="times" to="rosemary" />
+    <alias name="times new roman" to="rosemary" />
+    <alias name="palatino" to="rosemary" />
+    <alias name="georgia" to="rosemary" />
+    <alias name="baskerville" to="rosemary" />
+    <alias name="goudy" to="rosemary" />
+    <alias name="fantasy" to="rosemary" />
+    <alias name="ITC Stone Serif" to="rosemary" />
+
+    <family customizationType="new-named-family" name="sonysketch">
+      <font weight="300" style="normal">SonySketch.ttf</font>
+    </family>
+    <alias name="sonysketch-bold" to="sonysketch" weight="600" />
+    <alias name="times" to="sonysketch" />
+    <alias name="times new roman" to="sonysketch" />
+    <alias name="palatino" to="sonysketch" />
+    <alias name="georgia" to="sonysketch" />
+    <alias name="baskerville" to="sonysketch" />
+    <alias name="goudy" to="sonysketch" />
+    <alias name="fantasy" to="sonysketch" />
+    <alias name="ITC Stone Serif" to="sonysketch" />
+
+    <family customizationType="new-named-family" name="surfer">
+      <font weight="300" style="normal">Surfer.ttf</font>
+    </family>
+    <alias name="surfer-bold" to="surfer" weight="600" />
+    <alias name="times" to="surfer" />
+    <alias name="times new roman" to="surfer" />
+    <alias name="palatino" to="surfer" />
+    <alias name="georgia" to="surfer" />
+    <alias name="baskerville" to="surfer" />
+    <alias name="goudy" to="surfer" />
+    <alias name="fantasy" to="surfer" />
+    <alias name="ITC Stone Serif" to="surfer" />
+
+    <family customizationType="new-named-family" name="anaheim">
+        <font weight="300" style="normal">Anaheim-Regular.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="tinkerbell">
+        <font weight="300" style="normal">GearTinkerbell.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="bignoodle-italic">
+        <font weight="300" style="normal">BigNoodleTilting-Italic.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="bignoodle-regular">
+        <font weight="300" style="normal">BigNoodleTilting-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="hanken">
+        <font weight="300" style="normal">Hanken-Light.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="mittelschrift">
+        <font weight="300" style="normal">din1451alt.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="reemkufi">
+        <font weight="300" style="normal">ReemKufi-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="comic-neue-bold">
+        <font weight="300" style="normal">ComicNeue-Bold.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="comic-neue">
+        <font weight="300" style="normal">ComicNeue-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="exo2-regular">
+        <font weight="300" style="normal">Exo2-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="exo2-semibold">
+        <font weight="300" style="normal">Exo2-SemiBold.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="finlandica">
+        <font weight="300" style="normal">Finlandica-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="goodlight">
+        <font weight="300" style="normal">Goodlight.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="gravity-regular">
+        <font weight="300" style="normal">Gravity-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="inter-regular">
+        <font weight="300" style="normal">Inter-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="inter-medium-italic">
+        <font weight="300" style="normal">Inter-MediumItalic.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="league-mono-n-regular">
+        <font weight="300" style="normal">LeagueMono-RegularNarrow.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="league-mono-n-medium">
+        <font weight="300" style="normal">LeagueMono-MediumNarrow.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="league-mono-n-bold">
+        <font weight="300" style="normal">LeagueMono-BoldNarrow.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="league-mono-n-semibold">
+        <font weight="300" style="normal">LeagueMono-SemiBoldNarrow.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="leonsans-regular">
+        <font weight="300" style="normal">LeonSans-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="mescla-regular">
+        <font weight="300" style="normal">mescla_regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="odibee-sans">
+        <font weight="300" style="normal">OdibeeSans-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="panamericana">
+        <font weight="300" style="normal">Panamericana-Display.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="pt-sans">
+        <font weight="300" style="normal">PTSans-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="pt-mono">
+        <font weight="300" style="normal">PTMono-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="rounded-gothic-narrow">
+        <font weight="300" style="normal">routed-gothic-narrow.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="rounded-gothic-narrow-half-italic">
+        <font weight="300" style="normal">routed-gothic-narrow-half-italic.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="sofia-sans-regular">
+        <font weight="300" style="normal">SofiaSans-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="sofia-sans-medium">
+        <font weight="300" style="normal">SofiaSans-Medium.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="sofia-semicondensed-regular">
+        <font weight="300" style="normal">SofiaSansSemiCond-Regular.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="sofia-semicondensed-medium">
+        <font weight="300" style="normal">SofiaSansSemiCond-Medium.ttf</font>
+    </family>
 </fonts-modification>
